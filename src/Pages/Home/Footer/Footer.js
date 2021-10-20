@@ -5,7 +5,7 @@ const Footer = () => {
  return (
   <div>
    <footer>
-  <p class="text-center">Copyright &copy; Safe Plus Dental Care</p>
+  <h3 className="text-center text-primary">Copyright &copy; Safe Plus Dental Care</h3>
 </footer>
   </div>
  );
